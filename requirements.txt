@@ -1,5 +1,7 @@
 flask
 flask-restful
 Flask-JWT
+stable-baselines==2.10.0
+tensorflow==1.14.0
 Flask-SQLAlchemy
 uwsgi
